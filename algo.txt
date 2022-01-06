@@ -1,2 +1,10 @@
-1st) Google local pizza place
-2nd) Decide which pizza place to order from
+1) Google local pizza place
+2) Decide which pizza place to order from
+3) Order pizza from pizza place
+4) Pay for pizza from location
+5a    IF pizza is delivered from pizza place
+        - Pay for pizza with card
+        - Tip delivery driver
+5b    IF pizza is picked up from pizza place
+        - Pay for pizza with cash
+        - Tip pizza place
